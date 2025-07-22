@@ -15,8 +15,8 @@ This is a console-based Library Management System implemented in C++, demonstrat
 ## Getting Started 
 
 - Clone this repository in your local machine
-- Windows (due to _getch() and conio.h dependency)
-- Run on any C++ compiler (e.g., Visual Studio, Dev C++)
+- Ensure you’re using Windows for compatibility with _getch() and conio.h
+- Run the program in any C++-compatible IDE (e.g., Dev C++, Visual Studio)
 
 ## Menu Options
 
